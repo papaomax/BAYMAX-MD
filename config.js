@@ -10,7 +10,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     // ===== BOT CORE SETTINGS =====
- SESSION_ID: process.env.SESSION_ID || "baymax~kDsVhTzQ#9mEVlDnrUzjvgxsZSlZSyvy0WL0GYkDxuYPXBGPaqDQ",
+ SESSION_ID: process.env.SESSION_ID || "baymax~UW9ADZaA#lIJtL07dlbvSpBvyFXBWUGfRbMWTWeJ3AMB9VDPtf1E",
   PREFIX: getConfig("PREFIX") || ".",
     CHATBOT: getConfig("CHATBOT") || "on", 
     BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "BAYMAX-MD",
