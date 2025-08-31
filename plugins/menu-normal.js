@@ -54,7 +54,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363288177044023@newsletter',
                         newsletterName: 'Baymax MD',
                         serverMessageId: 143
                     }
@@ -73,7 +73,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363354023106228@newsletter',
+                    newsletterJid: '120363288177044023@newsletter',
                     newsletterName: 'Baymax MD',
                     serverMessageId: 143
                 }
@@ -245,7 +245,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363288177044023@newsletter',
                         newsletterName: "Rɪᴅᴢ Cᴏᴅᴇʀ",
                         serverMessageId: 143
                     }
@@ -311,7 +311,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363288177044023@newsletter',
                         newsletterName: 'Rɪᴅᴢ Cᴏᴅᴇʀ',
                         serverMessageId: 144
                     }
@@ -394,7 +394,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363288177044023@newsletter',
                         newsletterName: 'Rɪᴅᴢ Cᴏᴅᴇʀ',
                         serverMessageId: 143
                     }
@@ -472,7 +472,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363288177044023@newsletter',
                         newsletterName: 'Rɪᴅᴢ Cᴏᴅᴇʀ',
                         serverMessageId: 143
                     }
@@ -539,7 +539,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363288177044023@newsletter',
                         newsletterName: 'Rɪᴅᴢ Cᴏᴅᴇʀ',
                         serverMessageId: 143
                     }
@@ -610,7 +610,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363288177044023@newsletter',
                         newsletterName: 'Rɪᴅᴢ Cᴏᴅᴇʀ',
                         serverMessageId: 143
                     }
@@ -662,7 +662,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363288177044023@newsletter',
                         newsletterName: 'Rɪᴅᴢ Cᴏᴅᴇʀ',
                         serverMessageId: 143
                     }
@@ -721,7 +721,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363288177044023@newsletter',
                         newsletterName: 'Rɪᴅᴢ Cᴏᴅᴇʀ',
                         serverMessageId: 143
                     }
@@ -782,7 +782,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363288177044023@newsletter',
                         newsletterName: 'Rɪᴅᴢ Cᴏᴅᴇʀ',
                         serverMessageId: 143
                     }
@@ -851,7 +851,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363288177044023@newsletter',
                         newsletterName: 'Rɪᴅᴢ Cᴏᴅᴇʀ',
                         serverMessageId: 143
                     }
@@ -910,7 +910,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
+                        newsletterJid: '120363288177044023@newsletter',
                         newsletterName: 'Rɪᴅᴢ Cᴏᴅᴇʀ',
                         serverMessageId: 143
                     }
