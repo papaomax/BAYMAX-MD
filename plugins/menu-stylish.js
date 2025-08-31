@@ -9,7 +9,7 @@ const commonContextInfo = (sender) => ({
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363354023106228@newsletter',
+        newsletterJid: '120363288177044023@newsletter',
         newsletterName: config.BOT_NAME,
         serverMessageId: 143
     }
