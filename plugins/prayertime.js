@@ -60,8 +60,8 @@ async(conn, mek, m, {from, l, quoted, body, isCmd, command, args, q, isGroup, se
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'Baymax MD',
+                        newsletterJid: '120363288177044023@newsletter',
+                        newsletterName: 'BAYMAX-MD',
                         serverMessageId: 143
                     }
                 }
