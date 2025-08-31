@@ -55,7 +55,7 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363354023106228@newsletter',
+                    newsletterJid: '120363288177044023@newsletter',
                     newsletterName: 'BAYMAX-MD',
                     serverMessageId: 143
                 }
