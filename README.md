@@ -18,33 +18,24 @@
 <a href="https://bot-hosting.net/?aff=1367880529210507356">
 <img src="https://img.shields.io/badge/Bot%20Hosting-Deploy-blue?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
-</td>
-<td align="center">
+<b>
 <a href="https://dashboard.katabump.com/auth/login#40f6a8">
 <img src="https://img.shields.io/badge/Katabump-One%20Click%20Deploy-blueviolet?style=for-the-badge&logo=cloudflare&logoColor=white">
-</a>
-</td>
-<td align="center">
 <a href="https://railway.app">
 <img src="https://img.shields.io/badge/Railway-Deploy-0b0d0e?style=for-the-badge&logo=railway&logoColor=white">
 </a>
-</td>
-<td align="center">
+
 <a href="https://pterodactyl.io">
 <img src="https://img.shields.io/badge/Pterodactyl-Deploy-FF5733?style=for-the-badge&logo=server&logoColor=white">
 </a>
-</td>
-<td align="center">
 <a href="https://heroku.com/deploy?template=https://github.com/ridz-coder01/BAYMAX-MD">
 <img src="https://img.shields.io/badge/Heroku-Deploy%20Now-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </a>
-</td>
-<td align="center">
+
 <a href="https://render.com/deploy?repo=https://github.com/ridz-coder01/BAYMAX-MD">
 <img src="https://img.shields.io/badge/Render-Deploy-0466C8?style=for-the-badge&logo=render&logoColor=white">
 </a>
-</td>
-<td align="center">
+
 <a href="https://replit.com/github/ridz-coder01/BAYMAX-MD">
 <img src="https://img.shields.io/badge/Replit-Deploy-F26207?style=for-the-badge&logo=replit&logoColor=white">
 </a>
