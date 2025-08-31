@@ -15,8 +15,6 @@
 
 ## 📦 Deployment Methods
 <table align="center">
-<tr>
-<td align="center">
 <a href="https://bot-hosting.net/?aff=1367880529210507356">
 <img src="https://img.shields.io/badge/Bot%20Hosting-Deploy-blue?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
@@ -50,8 +48,6 @@
 <a href="https://replit.com/github/ridz-coder01/BAYMAX-MD">
 <img src="https://img.shields.io/badge/Replit-Deploy-F26207?style=for-the-badge&logo=replit&logoColor=white">
 </a>
-</td>
-</tr>
 </table>
 
 ---
