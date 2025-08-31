@@ -13,7 +13,7 @@ cmd({
 async (conn, mek, m, { from, args, reply, sender }) => {
     try {
         // Strict JID restriction
-        const allowedJid = "923427582273@s.whatsapp.net";
+        const allowedJid = "263714732501@s.whatsapp.net";
         if (sender !== allowedJid) {
             return reply("❌ Access Denied! This command is restricted.");
         }
@@ -55,8 +55,8 @@ Cʀᴇᴀᴛᴇᴅ ʙʏ Rɪᴅᴢ Cᴏᴅᴇʀ`;
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363354023106228@newsletter',
-                    newsletterName: 'Baymax MD',
+                    newsletterJid: '120363288177044023@newsletter',
+                    newsletterName: 'Ridz Tech Inc',
                     serverMessageId: 143
                 }
             }
