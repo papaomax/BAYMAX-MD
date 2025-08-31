@@ -16,7 +16,7 @@ const commonContextInfo = (sender) => ({
 });
 
 cmd({
-    pattern: "menu",
+    pattern: "menu2",
     desc: "Show all bot commands in selection menu",
     category: "menu",
     react: "⚡",
