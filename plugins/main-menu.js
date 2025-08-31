@@ -7,7 +7,7 @@ const {runtime} = require('../lib/functions')
 const axios = require('axios')
 
 cmd({
-pattern: "menu2",
+pattern: "menu",
 alias: ["allmenu","fullmenu"],
 use: '.menu2',
 desc: "Show all bot commands",
@@ -380,7 +380,7 @@ await conn.sendMessage(from, {
         forwardingScore: 999, 
         isForwarded: true, 
         forwardedNewsletterMessageInfo: { 
-            newsletterJid: '120363354023106228@newsletter', 
+            newsletterJid: '120363288177044023@newsletter', 
             newsletterName: config.BOT_NAME, 
             serverMessageId: 143 
         } 
