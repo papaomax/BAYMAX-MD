@@ -28,7 +28,7 @@
 <a href="https://pterodactyl.io">
 <img src="https://img.shields.io/badge/Pterodactyl-Deploy-FF5733?style=for-the-badge&logo=server&logoColor=white">
 </a>
-<a href="https://heroku.com/deploy?template=https://github.com/ridz-coder01/BAYMAX-MD">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/ridz-coder/BAYMAX-MD/tree/main">
 <img src="https://img.shields.io/badge/Heroku-Deploy%20Now-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </a>
 
