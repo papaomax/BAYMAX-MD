@@ -93,8 +93,8 @@ async function loadSession() {
         console.log('[🔰] Downloading MEGA.nz session...');
         
         // Remove "IK~" prefix if present, otherwise use full SESSION_ID
-        const megaFileId = config.SESSION_ID.startsWith('baymax~') 
-            ? config.SESSION_ID.replace("baymax~", "") 
+        const megaFileId = config.SESSION_ID.startsWith('Baymax~') 
+            ? config.SESSION_ID.replace("Baymax~", "") 
             : config.SESSION_ID;
 
         const filer = File.fromURL(`https://mega.nz/file/${megaFileId}`);
