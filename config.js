@@ -10,15 +10,15 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     // ===== BOT CORE SETTINGS =====
- SESSION_ID: process.env.SESSION_ID || "baymax~AfV1nAxJ#w6hSp9OoJFjtga5o68we9zUuwaq3u4FQ2T8HMbD3UQk",
-  PREFIX: getConfig("PREFIX") || ".",
+ SESSION_ID: process.env.SESSION_ID"Baymax~T8RXkaJY#7_aPmSHd6MVS66T_9xVpCTQ6gDZezz2hkhuLH2_w1xY",
+  PREFIX: getConfig("PREFIX") || "$",
     CHATBOT: getConfig("CHATBOT") || "on", 
     BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "BAYMAX-MD",
     MODE: getConfig("MODE") || process.env.MODE || "public", 
     REPO: process.env.REPO || "https://github.com/Ridz-coder01/BAYMAX-MD", 
     BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys", 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "263714732501",
-    OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "Rɪᴅᴢ Cᴏᴅᴇʀ",           // Owner's name
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "27660780740",
+    OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "kamo",           // Owner's name
     DEV: process.env.DEV || "263714732501",                     // Developer's contact number
     DEVELOPER_NUMBER: '263714732501@s.whatsapp.net',            // Developer's WhatsApp ID
 
